@@ -1,3 +1,3 @@
 ## PongGame
 
-https://narcikss.github.io/PongGame/
+https://cosslatt.github.io/PongGame/
